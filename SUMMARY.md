@@ -1,4 +1,17 @@
 # Table of contents
 
-* [Page](README.md)
-* [Page One](page-one.md)
+* [Welcome](README.md)
+
+## Getting Started
+
+* [Quickstart](getting-started/quickstart.md)
+* [Publish your docs](getting-started/publish-your-docs.md)
+
+## Basics
+
+* [Editor](basics/editor.md)
+* [Markdown](basics/markdown.md)
+
+***
+
+* [SRA Page](sra-page.md)
