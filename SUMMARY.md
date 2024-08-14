@@ -2,3 +2,4 @@
 
 * [Saguaros](README.md)
 * [Lizards](lizards.md)
+* [Miscellaneous](miscellaneous.md)
