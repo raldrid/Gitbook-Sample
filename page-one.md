@@ -1,14 +1,14 @@
-# Sample 1
+# Page One
 
-### Feature
+### Feature to Include:
 
 ### Date:
 
-### Author:
+### Author of the Stuff:
 
 ***
 
-_Summary_\*
+_Summary_
 
 _Home Page_
 
