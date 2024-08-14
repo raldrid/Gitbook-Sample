@@ -1,17 +1,17 @@
 # Sample
 
-## Sample 1
+#### Feature Migration Document
 
-#### Feature
+#### Date: 2024-08-15
 
-#### Date:
-
-#### Author:
+#### Author: Humbler
 
 ***
 
-_Summary_\*
+**Summary**
 
 _Home Page_
 
 This page will act as initial site page.
+
+<figure><img src=".gitbook/assets/backusa.gif" alt=""><figcaption></figcaption></figure>
