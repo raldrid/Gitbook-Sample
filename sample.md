@@ -14,8 +14,6 @@ _Home Page_
 
 This page will act as initial site page.
 
-<figure><img src=".gitbook/assets/backusa.gif" alt=""><figcaption></figcaption></figure>
-
 #### ToDo:
 
 * Get Up
