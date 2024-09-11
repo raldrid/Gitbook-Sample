@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Saguaros](README.md)
-* [Lizards](lizards.md)
-* [Miscellaneous](miscellaneous.md)
-* [Home Page](home-page.md)
+* [Home Page](README.md)
+* [Desert Stuff](desert-stuff/README.md)
+  * [Saguaros](desert-stuff/saguaros.md)
+  * [Lizards](desert-stuff/lizards.md)
+  * [Miscellaneous](desert-stuff/miscellaneous.md)
