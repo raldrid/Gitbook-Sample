@@ -1,12 +1,12 @@
 # Home Page
 
-### Feature Migration Document
+### Feature Document
 
 Date: 2024-08-15
 
 Author: Ray Aldridge
 
-### Feature Migration Summary
+### Feature Summary
 
 _Home Page_
 
